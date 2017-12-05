@@ -9,5 +9,6 @@
 
     <string name="up">Up</string>
     <string name="artical_iamge">article image</string>
+    <string name="snackbar_data_txt">Data Loaded</string>
 
 </resources>
